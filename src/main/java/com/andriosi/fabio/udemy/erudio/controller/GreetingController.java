@@ -1,12 +1,11 @@
-package com.andriosi.fabio.udemy.arudio.udemyarudio.controller;
+package com.andriosi.fabio.udemy.erudio.controller;
 
 import java.util.concurrent.atomic.AtomicLong;
 
+import com.andriosi.fabio.udemy.erudio.model.Greeting;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-
-import com.andriosi.fabio.udemy.arudio.udemyarudio.model.Greeting;
 
 @RestController
 public class GreetingController {

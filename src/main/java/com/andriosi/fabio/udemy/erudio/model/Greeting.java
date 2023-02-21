@@ -1,4 +1,4 @@
-package com.andriosi.fabio.udemy.arudio.udemyarudio.model;
+package com.andriosi.fabio.udemy.erudio.model;
 
 public class Greeting {
     private final Long id;

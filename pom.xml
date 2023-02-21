@@ -8,7 +8,7 @@
 		<version>2.7.8</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.andriosi.fabio.udemy.arudio</groupId>
+	<groupId>com.andriosi.fabio.udemy.erudio</groupId>
 	<artifactId>udemy-arudio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>udemy-arudio</name>

@@ -1,4 +1,4 @@
-package com.andriosi.fabio.udemy.arudio.udemyarudio;
+package com.andriosi.fabio.udemy.erudio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
