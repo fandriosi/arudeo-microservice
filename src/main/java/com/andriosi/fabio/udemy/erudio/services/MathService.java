@@ -5,7 +5,7 @@ import com.andriosi.fabio.udemy.erudio.exceptions.UnsupportedMethOperationExcept
 import org.springframework.stereotype.Service;
 
 @Service
-public class Math {
+public class MathService {
 
     public Double getSum(String firstNumber, String secondNumber) throws Exception{
         return convertToDouble(firstNumber) + convertToDouble(secondNumber);
