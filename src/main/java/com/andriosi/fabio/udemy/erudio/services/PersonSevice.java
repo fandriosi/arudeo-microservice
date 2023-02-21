@@ -43,4 +43,12 @@ public class PersonSevice {
     public Person create(Person person){
         return person;
     }
+
+    public Person update(Person person){
+        return person;
+    }
+
+    public  void delete(String id){
+
+    }
 }
